@@ -1,0 +1,1 @@
+Jest to projekt potencjostatu odznaczaj¹cy sie ulepszon¹ koñcówk¹ mocy (wzmacniaczem wyjœciowym). Komunikacja poprzez konsolê lub program napisany w tamtym czasie (2011) przez kolegê w Delphi. Programy wykonawcze (wsady do AVR ATMega16) napisa³em sam. S¹ nieco toporne 2011 to by³ w zasadzie mój pocz¹tek z programowaniem.
